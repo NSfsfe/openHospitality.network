@@ -1,3 +1,8 @@
+# SPDX-FileCopyrightText: 2022 Maria Kozinska <m.kozinska@gmail.com>
+# SPDX-FileCopyrightText: 2022 Open Hospitality Network
+#
+# SPDX-License-Identifier: AGPL-3.0-only
+
 # [WarmShowers](https://www.warmshowers.org)
 
 ## Context map

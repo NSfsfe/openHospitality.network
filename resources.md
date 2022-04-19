@@ -1,3 +1,8 @@
+# SPDX-FileCopyrightText: 2022 Maria Kozinska <m.kozinska@gmail.com>
+# SPDX-FileCopyrightText: 2022 Open Hospitality Network
+#
+# SPDX-License-Identifier: AGPL-3.0-only
+
 ## Other resources
 
 Here you can read some more background, find other resources and places where we discuss, share ideas and connect with the world outside our core team:

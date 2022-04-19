@@ -1,3 +1,8 @@
+# SPDX-FileCopyrightText: 2022 Maria Kozinska <m.kozinska@gmail.com>
+# SPDX-FileCopyrightText: 2022 Open Hospitality Network
+#
+# SPDX-License-Identifier: AGPL-3.0-only
+
 # Open Hospitality Network
 
 _We are designing a protocol to connect different hospitality exchange platforms to unify the community while enabling greater diversity and long term sustainability of all together._

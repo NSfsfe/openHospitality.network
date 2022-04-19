@@ -1,3 +1,8 @@
+# SPDX-FileCopyrightText: 2022 Maria Kozinska <m.kozinska@gmail.com>
+# SPDX-FileCopyrightText: 2022 Open Hospitality Network
+#
+# SPDX-License-Identifier: AGPL-3.0-only
+
 # What exactly would change?
 
 Here is what we'd like to change. Check also [github issue]({{site.github.repository_url}}/issues/33) for more details.
